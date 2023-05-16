@@ -1,0 +1,9 @@
+https://www.datacamp.com/tutorial/face-detection-python-opencv
+cascading study on above document with how it works and essential libraries.
+
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+How face to recognize face and verify.
+
+https://pyimagesearch.com/2018/07/11/an-interview with-adam-geitgey-creator-of-the-face_recognition-python-library/
+
+
